@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteTaking</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="header">Header</string>
+    <string name="tag">Tag</string>
+    <string name="content">Content</string>
+    <string name="udgc">Ứng dụng ghi chú</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="def_header">Dafault_Header</string>
+    <string name="def_date">Dafault_Date</string>
+    <string name="def_tag">Dafault_Tag</string>
+    <string name="def_content">Dafault_Content</string>
+    <string name="about">About</string>
+    <string name="fullname">Họ tên: </string>
+    <string name="mssv">MSSV: </string>
+    <string name="email">Email: </string>
+    <string name="ok">OK</string>
+</resources>
